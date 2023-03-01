@@ -5,3 +5,5 @@
 <p align="center">
   <img width="276" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaobaptista03&theme=highcontrast&show_icons=true&hide_border=false&layout=compact">
 </p>
+
+![Snake animation](https://github.com/diogoaraujo017/diogoaraujo017/blob/output/github-contribution-grid-snake.svg)
