@@ -33,5 +33,5 @@
  <hr style="height:30pt; visibility:hidden;" />
  
 <p align="center">
-  <img width="1020" height="360" src="https://github.com/diogoaraujo017/diogoaraujo017/blob/output/github-contribution-grid-snake.svg">
+  <img width="1020" height="360" src="https://raw.githubusercontent.com/diogoaraujo017/diogoaraujo017/65168f4944bac6af61882453f0b1bef2755dd5ef/github-contribution-grid-snake.svg">
 </p>
