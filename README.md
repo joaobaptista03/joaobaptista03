@@ -19,7 +19,6 @@
 
 <hr style="height:30pt; visibility:hidden;" />
 
-  </div>
   <h3>CONTACTS</h3>
   <div display="flex"> 
   </a>
@@ -30,8 +29,6 @@
     </div>
   </div>
   
- <hr style="height:30pt; visibility:hidden;" />
- 
-<p align="center">
-  <img width="1020" height="360" src="https://raw.githubusercontent.com/diogoaraujo017/diogoaraujo017/65168f4944bac6af61882453f0b1bef2755dd5ef/github-contribution-grid-snake.svg">
-</p>
+<hr style="height:30pt; visibility:hidden;" />
+
+  ![Snake animation](https://raw.githubusercontent.com/diogoaraujo017/diogoaraujo017/65168f4944bac6af61882453f0b1bef2755dd5ef/github-contribution-grid-snake.svg)
