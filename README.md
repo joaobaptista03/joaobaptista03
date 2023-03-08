@@ -46,6 +46,6 @@
   
 <hr style="height:30pt; visibility:hidden;"/>
 
-![](https://raw.githubusercontent.com/diogoaraujo017/diogoaraujo017/65168f4944bac6af61882453f0b1bef2755dd5ef/github-contribution-grid-snake.svg)
+![](https://github.com/joaobaptista03/joaobaptista03/blob/output/github-contribution-grid-snake.svg)
 
 </div>
