@@ -13,7 +13,7 @@
 <hr style="height:30pt; visibility:hidden;" />
 
 <p align="center">
-  <img width="276" height="180" src="">
+  <img width="276" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaobaptista03&theme=highcontrast&show_icons=true&hide_border=false&layout=compact">
 </p>
 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
