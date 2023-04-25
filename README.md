@@ -27,6 +27,8 @@
 </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="46" height="40"/>
 </a>
+  <a href="wikipedia.org/wiki/HTML" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html" width="46" height="40"/>
+</a>
 
 <hr style="height:30pt; visibility:hidden;" />
 
