@@ -8,7 +8,7 @@
   
 **Currently Studying Computer Science and Engineering at Universidade do Minho!**
 
-**I have worked in multiple projects, using languages like Haskell, C and Java. I learned MATLAB as well, but I am more used to Software Programming.**
+**I have worked in multiple projects, using languages like Haskell, C and Java. I learned MATLAB and SQL as well, but I am more used to Software Programming.**
 
 <hr style="height:30pt; visibility:hidden;" />
 
