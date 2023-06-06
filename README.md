@@ -9,7 +9,7 @@
 **Currently Studying Computer Science and Engineering at Universidade do Minho!**
 
 **I have worked in multiple projects, using languages like C, Java, Haskell and Python. I've learned MATLAB, SQL, HTML and CSS as well, but I am more used to Software Programming.**
-
+<br><br>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="40"/>  </a>
 <a href="https://www.haskell.org/" target="_blank" rel="noreferrer">
