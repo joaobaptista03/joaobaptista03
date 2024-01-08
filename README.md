@@ -24,9 +24,7 @@
 
 <hr style="height:30pt; visibility:hidden;" />
 
-<p align="center">
-  <img width="276" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaobaptista03&theme=highcontrast&show_icons=true&hide_border=false&layout=compact">
-</p>
+![joaobaptista03's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaobaptista03&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
 
 <hr style="height:30pt; visibility:hidden;" />
 
