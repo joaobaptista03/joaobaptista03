@@ -10,7 +10,7 @@
 
 **I have worked in multiple projects, using languages like C, Java, Haskell and Python. I've learned MATLAB, SQL, HTML and CSS as well, but I am more used to Software Programming.**
 
-**All the repositories started with UMinho are projects developed in the course.**
+**All the repositories started with 'UMinho' are projects developed in the course.**
 <br><br>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="40"/>  </a>
