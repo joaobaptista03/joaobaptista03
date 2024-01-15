@@ -12,17 +12,33 @@
 
 **All the repositories started with "UMinho" are projects developed in the course.**
 <br><br>
+
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="40"/>  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="46" height="40"/> </a>
+  
+<a href="wikipedia.org/wiki/C++" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c" width="46" height="40"/> </a>
+  
 <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="46" height="40"/> </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="46" height="40"/> </a>
+  
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="46" height="40"/> </a>
+  
 <a href="https://www.haskell.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="60" height="40"/> </a>
-<a href="wikipedia.org/wiki/HTML" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html" width="46" height="40"/> </a>
-<a href="https://wikipedia.org/wiki/Cascading_Style_Sheets" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="html" width="46" height="40"/> </a>
-<a href="wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"> <img src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg" alt="html" width="46" height="40"/> </a>
-<a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2020/12/MATLAB-Logo.png" alt="html" width="46" height="40"/> </a>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="46" height="40"/> </a>
+  
+<a href="wikipedia.org/wiki/HTML" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html" width="46" height="40"/> </a>
+  
+<a href="https://wikipedia.org/wiki/Cascading_Style_Sheets" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="html" width="46" height="40"/> </a>
+  
+<a href="wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer">
+  <img src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg" alt="html" width="46" height="40"/> </a>
+  
+<a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
+  <img src="https://logos-world.net/wp-content/uploads/2020/12/MATLAB-Logo.png" alt="html" width="46" height="40"/> </a>  
 
 <hr style="height:30pt; visibility:hidden;" />
 
