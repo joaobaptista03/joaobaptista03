@@ -10,7 +10,7 @@
 
 **The repositories started with "UMinho" are projects developed in the course. All the others are Own Projects that I developed in order to enhance my programming skills.**
 
-**Check out my Portfolio 🙂: joaopedrobaptista.pt**
+**Check out my Portfolio 🙂: [joaopedrobaptista.pt](https://www.joaopedrobaptista.pt)**
 
 <br>
 
