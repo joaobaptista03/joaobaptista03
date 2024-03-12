@@ -35,7 +35,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="html" width="46" height="40"/> </a>
 
 <a href="https://wikipedia.org/wiki/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="html" width="46" height="40"/> </a>
+  <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="html" width="38" height="32"/> </a>
   
 <a href="wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer">
   <img src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg" alt="html" width="46" height="40"/> </a>
