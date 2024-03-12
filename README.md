@@ -8,7 +8,7 @@
   
 **Currently Studying Computer Science and Engineering at Universidade do Minho!**
 
-**I have worked in multiple projects, using languages like C, C#, Java, Haskell and Python. I've learned MATLAB, SQL, HTML and CSS as well, but I am more used to Software Programming.**
+**I have worked in multiple projects, using languages like C, C#, Java, Python and Haskell. I've learned HTML, CSS, JS (and Node), SQL and MATLAB as well, but I am more used to Software Programming.**
 
 **All the repositories started with "UMinho" are projects developed in the course.**
 <br><br>
@@ -33,6 +33,9 @@
   
 <a href="https://wikipedia.org/wiki/Cascading_Style_Sheets" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="html" width="46" height="40"/> </a>
+
+<a href="https://wikipedia.org/wiki/JavaScript" target="_blank" rel="noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="html" width="46" height="40"/> </a>
   
 <a href="wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer">
   <img src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg" alt="html" width="46" height="40"/> </a>
