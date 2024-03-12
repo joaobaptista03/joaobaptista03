@@ -8,7 +8,7 @@
 
 **I have worked in multiple projects, using languages like C, C#, Java, Python, and Haskell. I've learned HTML, CSS, JS (and Node), SQL, and MATLAB as well, but I am more used to Software Programming.**
 
-**All the repositories started with "UMinho" are projects developed in the course.**
+**The repositories started with "UMinho" are projects developed in the course. All the others are Own Projects that I developed in order to enhance my programming skills.**
 
 **Check out my Portfolio 🙂: joaopedrobaptista.pt**
 
