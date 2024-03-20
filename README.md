@@ -26,6 +26,6 @@
 
 ---
 
-![Commit Snake](https://github.com/joaobaptista03/joaobaptista03/blob/output/github-contribution-grid-snake.svg)
+![Commit Snake](https://github.com/joaobaptista03/joaobaptista03/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
