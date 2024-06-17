@@ -14,7 +14,7 @@
 
 <br>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaobaptista03&theme=nightowl&layout=compact&exclude_repo=UMinho-PL2024,UMinho-EngWeb2024)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaobaptista03&theme=nightowl&layout=compact&exclude_repo=UMinho-PL2024,UMinho-EngWeb2024&size_weight=1&count_weight=1)
 
 ---
 
