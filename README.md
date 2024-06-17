@@ -6,7 +6,7 @@
 
 #### Currently Studying Computer Science and Engineering at Universidade do Minho!
 
-#### I have worked in multiple projects, using languages like C, C#, Java, Python, and Haskell. I've learned HTML, CSS, JS (and Node), SQL, and MATLAB as well, but I am more used to Software Programming.
+#### I have worked in multiple projects, using languages like C, JS, C#, Java, Python, and Haskell. I've learned HTML, CSS, SQL, and MATLAB as well, but I am more used to Software Programming.
 
 #### The repositories started with "UMinho" are projects developed in the course. All the others are Own Projects that I developed in order to enhance my programming skills.
 
