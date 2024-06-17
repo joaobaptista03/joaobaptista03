@@ -14,7 +14,7 @@
 
 <br>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaobaptista03&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaobaptista03&theme=nightowl&layout=compact)
 
 ---
 
