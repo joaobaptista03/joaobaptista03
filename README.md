@@ -10,7 +10,7 @@
 
 #### The repositories started with "UMinho" are projects developed in the course. All the others are Own Projects that I developed in order to enhance my programming skills.
 
-#### Check out my <a href="https://joaobaptista03.github.io" target="_blank">Portfolio</a> 🙂
+
 
 <br>
 
@@ -19,6 +19,8 @@
 ---
 
 ### CONTACT ME
+
+[![Portfolio](https://img.shields.io/badge/Resume-CV-00C853?style=for-the-badge&logo=resume&logoColor=white)](https://www.joaopedrobaptista.pt)
 
 [![Resume (CV)](https://img.shields.io/badge/Resume-CV-00C853?style=for-the-badge&logo=resume&logoColor=white)](https://www.joaopedrobaptista.pt/CV.pdf)
 
