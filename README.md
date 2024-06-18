@@ -18,7 +18,7 @@
 
 ---
 
-### CONTACT ME
+### LINK TREE
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-0073e6?style=for-the-badge&logo=portfolio&logoColor=white)](https://www.joaopedrobaptista.pt)
 
