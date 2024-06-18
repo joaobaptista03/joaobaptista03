@@ -20,8 +20,8 @@
 
 ### CONTACT ME
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaopedromotabaptista2003@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/210756181109506048)
+[![Resume (CV)](https://img.shields.io/badge/Resume-CV-00C853?style=for-the-badge&logo=resume&logoColor=white)](https://www.joaopedrobaptista.pt/CV.pdf)
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaobaptista03/)
 
 ---
