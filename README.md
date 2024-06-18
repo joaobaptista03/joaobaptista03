@@ -20,7 +20,7 @@
 
 ### CONTACT ME
 
-[![Portfolio](https://img.shields.io/badge/Resume-CV-00C853?style=for-the-badge&logo=resume&logoColor=white)](https://www.joaopedrobaptista.pt)
+[![Portfolio](ttps://img.shields.io/badge/Portfolio-Website-0073e6?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://www.joaopedrobaptista.pt)
 
 [![Resume (CV)](https://img.shields.io/badge/Resume-CV-00C853?style=for-the-badge&logo=resume&logoColor=white)](https://www.joaopedrobaptista.pt/CV.pdf)
 
