@@ -10,7 +10,7 @@
 
 #### My academic projects are in repositories starting with "UMinho", while my own projects are aimed at enhancing my programming skills.
 
-#### I have experience with C, C#, JavaScript (Node.js), Java, Python, and Haskell, and have also learned HTML, CSS, SQL, and MATLAB. Explore my programming projects showcased on this website.
+#### Despite having front-end experience, my focus is more on backend development. Explore my programming projects showcased on this website.
 
 <br>
 
