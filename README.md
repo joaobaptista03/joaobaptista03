@@ -4,13 +4,13 @@
 
 ---
 
-#### Currently finishing my Bachelor's Degree in Software Engineering at Minho University. Afterwards, I'll be starting my Masters Degree, also in Software Engineering.
+#### My name is João Pedro Baptista, a third-year Software Engineering student at Universidade do Minho, Braga, Portugal. I'm finishing my Bachelor's and will soon start my Master's in the same field. 
 
-#### At the moment I'm in an Summer Internship at Checkmarx, in Braga - Portugal.
+#### Currently, I'm doing a summer internship at Checkmarx in Braga. 
 
-#### The repositories started with "UMinho" are projects developed in the course. All the others are Own Projects that I developed in order to enhance my programming skills.
+#### My academic projects are in repositories starting with "UMinho", while my own projects are aimed at enhancing my programming skills.
 
-
+#### I have experience with C, C#, JavaScript (Node.js), Java, Python, and Haskell, and have also learned HTML, CSS, SQL, and MATLAB. Explore my programming projects showcased on this website.
 
 <br>
 
