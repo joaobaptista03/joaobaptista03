@@ -6,7 +6,7 @@
 
 #### Currently finishing my Bachelor's Degree in Software Engineering at Minho University. Afterwards, I'll be starting my Masters Degree, also in Software Engineering.
 
-#### Currently in an Summer Internship at Checkmarx, in Braga - Portugal.
+#### At the moment I'm in an Summer Internship at Checkmarx, in Braga - Portugal.
 
 #### The repositories started with "UMinho" are projects developed in the course. All the others are Own Projects that I developed in order to enhance my programming skills.
 
