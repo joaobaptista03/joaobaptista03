@@ -6,11 +6,11 @@
 
 #### My name is João Pedro Baptista, a third-year Software Engineering student at Universidade do Minho, Braga, Portugal. I'm finishing my Bachelor's and will soon start my Master's in the same field. 
 
-#### Currently, I'm doing a summer internship at Checkmarx in Braga. 
+#### Currently, I'm doing a summer internship at Checkmarx in Braga.
 
 #### My academic projects are in repositories starting with "UMinho", while my own projects are aimed at enhancing my programming skills.
 
-#### Despite having front-end experience, my focus is more on backend development. Explore my programming projects showcased on this website.
+#### Despite having front-end experience, my focus is more on backend development. Explore my programming projects showcased in my Portfolio or in this GitHub!
 
 <br>
 
