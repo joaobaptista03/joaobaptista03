@@ -6,8 +6,6 @@
 
 #### Currently finishing my Bachelor's Degree in Software Engineering at Minho University. I'm also doing a Summer Internship at Checkmarx, in Braga - Portugal.
 
-#### I have worked in multiple projects, using languages like C, JS, C#, Java, Python, and Haskell. I've learned HTML, CSS, SQL, and MATLAB as well, but I am more used to Software Programming.
-
 #### The repositories started with "UMinho" are projects developed in the course. All the others are Own Projects that I developed in order to enhance my programming skills.
 
 
