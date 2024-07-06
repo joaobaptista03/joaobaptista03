@@ -14,7 +14,7 @@
 
 <br>
 
-![All Languages / Technologies](https://github-readme-stats.vercel.app/api/top-langs/?username=joaobaptista03&theme=nightowl&layout=donut&exclude_repo=UMinho-PL2024,UMinho-EngWeb2024&size_weight=1&count_weight=1&langs_count=20&custom_title=All%20Languages%20/%20Technologies)
+![All Languages / Technologies](https://github-readme-stats.vercel.app/api/top-langs/?username=joaobaptista03&theme=nightowl&layout=donut&size_weight=1&count_weight=1&langs_count=20&custom_title=All%20Languages%20/%20Technologies)
 
 ---
 
