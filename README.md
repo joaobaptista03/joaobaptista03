@@ -4,9 +4,7 @@
 
 ---
 
-#### My name is João Pedro Baptista, a third-year Software Engineering student at Universidade do Minho, Braga, Portugal. I'm finishing my Bachelor's and will soon start my Master's in the same field. 
-
-#### Currently, I'm doing a summer internship at Checkmarx in Braga.
+#### Hello! My name is João Pedro Mota Baptista. I hold a degree in Software Engineering from the University of Minho. Currently, I am working in the SAST (Static Application Security Testing) department at Checkmarx Portugal, located in Braga.
 
 #### My academic projects are in repositories starting with "UMinho", while my own projects are aimed at enhancing my programming skills.
 
