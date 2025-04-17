@@ -18,9 +18,9 @@
 
 ### LINK TREE
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-0073e6?style=for-the-badge&logo=portfolio&logoColor=white)](https://www.joaopedrobaptista.pt)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-0073e6?style=for-the-badge&logo=portfolio&logoColor=white)](https://joaobaptista03.github.io)
 
-[![Resume (CV)](https://img.shields.io/badge/Resume-CV-00C853?style=for-the-badge&logo=resume&logoColor=white)](https://www.joaopedrobaptista.pt/CV.pdf)
+[![Resume (CV)](https://img.shields.io/badge/Resume-CV-00C853?style=for-the-badge&logo=resume&logoColor=white)](https://joaobaptista03.github.io/CV.pdf)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaobaptista03/)
 
