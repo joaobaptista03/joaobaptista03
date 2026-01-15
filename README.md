@@ -10,10 +10,6 @@
 
 #### Despite having front-end experience, my focus is more on backend development. Explore my programming projects showcased in my Portfolio or in this GitHub!
 
-<br>
-
-![All Languages / Technologies](https://github-readme-stats.vercel.app/api/top-langs/?username=joaobaptista03&theme=nightowl&layout=donut&size_weight=1&count_weight=1&langs_count=20&custom_title=All%20Languages%20/%20Technologies)
-
 ---
 
 ### LINK TREE
