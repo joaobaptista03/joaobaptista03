@@ -11,7 +11,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-0073e6?style=for-the-badge&logo=portfolio&logoColor=white)](https://joaopedrobaptista.pt/)
 
-[![Resume (CV)](https://img.shields.io/badge/Resume-CV-00C853?style=for-the-badge&logo=resume&logoColor=white)](https://ugc.production.linktr.ee/4b0571ed-7311-47e5-b826-a94fed48d9f4_Backend-Software-Engineer.pdf)
+[![Resume (CV)](https://img.shields.io/badge/Resume-CV-00C853?style=for-the-badge&logo=resume&logoColor=white)](https://ugc.production.linktr.ee/2f32d17a-7a66-40e1-ae3b-2dc3ac058147_Backend-Software-Engineer.pdf)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaobaptista03/)
 
