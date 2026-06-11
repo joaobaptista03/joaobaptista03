@@ -14,9 +14,9 @@
 
 ### LINK TREE
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-0073e6?style=for-the-badge&logo=portfolio&logoColor=white)](https://joaobaptista03.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-0073e6?style=for-the-badge&logo=portfolio&logoColor=white)](https://joaopedrobaptista.pt/)
 
-[![Resume (CV)](https://img.shields.io/badge/Resume-CV-00C853?style=for-the-badge&logo=resume&logoColor=white)](https://joaobaptista03.github.io/CV.pdf)
+[![Resume (CV)](https://img.shields.io/badge/Resume-CV-00C853?style=for-the-badge&logo=resume&logoColor=white)]([https://joaobaptista03.github.io/CV.pdf](https://ugc.production.linktr.ee/4b0571ed-7311-47e5-b826-a94fed48d9f4_Backend-Software-Engineer.pdf))
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaobaptista03/)
 
