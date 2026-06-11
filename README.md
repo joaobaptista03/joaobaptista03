@@ -4,12 +4,7 @@
 
 ---
 
-#### Hello! My name is João Pedro Mota Baptista. I hold a degree in Software Engineering from the University of Minho.
-
-#### My academic projects are in repositories starting with "UMinho", while my own projects are aimed at enhancing my programming skills.
-
-#### Despite having front-end experience, my focus is more on backend development. Explore my programming projects showcased in my Portfolio or in this GitHub!
-
+#### Backend Software Engineer with a proven track record of architecting distributed systems, maintaining 99.9% uptime, and processing immense data volume daily. Expert in designing secure, scalable microservices (using REST and gRPC) and event-driven architectures across Go, .NET Core (C#), and Node.js (JavaScript) ecosystems. Brings rigorous performance standards and deep technical versatility to any domain, having successfully scaled infrastructure for both high-throughput fintech operations and complex static analysis security tooling
 ---
 
 ### LINK TREE
