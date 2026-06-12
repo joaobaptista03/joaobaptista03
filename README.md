@@ -5,15 +5,9 @@
 ---
 
 #### Backend Software Engineer with a proven track record of architecting distributed systems, maintaining 99.9% uptime, and processing immense data volume daily. Expert in designing secure, scalable microservices (using REST and gRPC) and event-driven architectures across Go, .NET Core (C#), and Node.js (JavaScript) ecosystems. Brings rigorous performance standards and deep technical versatility to any domain, having successfully scaled infrastructure for both high-throughput fintech operations and complex static analysis security tooling
----
+<br>
 
-### LINK TREE
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-0073e6?style=for-the-badge&logo=portfolio&logoColor=white)](https://joaopedrobaptista.pt/)
-
-[![Resume (CV)](https://img.shields.io/badge/Resume-CV-00C853?style=for-the-badge&logo=resume&logoColor=white)](https://joaopedrobaptista.pt/cv)
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaobaptista03/)
+[![Website](https://img.shields.io/badge/Website-blue)](https://joaopedrobaptista.pt/)
 
 ---
 
